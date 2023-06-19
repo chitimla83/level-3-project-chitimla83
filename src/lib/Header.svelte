@@ -11,5 +11,15 @@
 </header>
 
 <style>
+  h1 {
+    font-family: "Libre Baskerville";
+    font-size: 45px;
+    text-align: left;
+  }
+  h2 {
+    font-family: "Poppins";
+    font-size: 45px;
+    text-align: right;
+  }
   /* this is for a change of fonst and size */
 </style>

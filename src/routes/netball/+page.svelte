@@ -7,11 +7,5 @@
 
 <Nav />
 <Header title="Craighead Diocesan School" subtitle="Sports Portal" />
-<!-- Use Columnns -->
-
-<div class="columns is-mobile">
-  <div class="column">1</div>
-  <div class="column">2</div>
-</div>
-
+<h1>Netball</h1>
 <Footer />
