@@ -94,7 +94,6 @@
   <p>Relays – 1st in G19, G16 and G15 and 3rd in G14 4 x 100m</p>
 </main>
 <Footer />
-ru
 
 <style>
   h1 {
