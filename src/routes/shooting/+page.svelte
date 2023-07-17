@@ -14,7 +14,10 @@
     <div class="column" />
     <!-- start of second column -->
     <div class="column">
-      <!-- put infor in here  -->
+      <h2>LEVELS</h2>
+      <p>Years 9 -13</p>
+      <h2>UNIFORM</h2>
+      <p>Scchool Tracksuit and Shooting jackets</p>
     </div>
   </div>
 </main>

@@ -29,11 +29,6 @@
       <!-- end of button -->
       <!-- start button -->
       <div class="buttons">
-        <a class="button is-info is-light is-large is-hovered" href="lawnbowls">Lawn Bowls</a>
-      </div>
-      <!-- end of button -->
-      <!-- start button -->
-      <div class="buttons">
         <a class="button is-info is-light is-large is-hovered" href="mountainbiking">Mountain Biking</a>
       </div>
       <!-- end of button -->
@@ -104,7 +99,7 @@
       <!-- end of button -->
       <!-- start button -->
       <div class="buttons">
-        <a class="button is-info is-light is-large is-hovered" href="sailing">Sailing</a>
+        <a class="button is-info is-light is-large is-hovered" href="sailing ">Sailing</a>
       </div>
       <!-- end of button -->
       <!-- start button -->
