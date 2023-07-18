@@ -39,7 +39,7 @@
   <li>Intermediate Champion – Faith Coffin</li>
   <li>Senior Runner Up – Lydia Giles</li>
   <li>Senior Champion – Niamh Motley</li>
-  <li>nter Sports Cross Country Trophy - Rugby</li>
+  <li>Inter Sports Cross Country Trophy - Rugby</li>
   <h3>House Points</h3>
   <li>1st Te Raki 272</li>
   <li>2nd Te Uru 242</li>
@@ -56,7 +56,7 @@
     <br />
     The Senior (Under 19) girls race is an exhibition of the best female runners in the wider Canterbury region, with Canterbury runners having to compete in this and the Canterbury Secondary Schools Cross Country in order to be selected for the regional relay teams at the NZSS Cross Country. For Emily Caird and Niamh Motley it was fast paced, with the vastly experienced Motley playing the chasing game beautifully, using the leading bunch to pace her, then finishing second in devastating form.
   </p>
-
+  <br />
   <h3>Final Results:</h3>
   <li>Year 9 Girls: Kayla Allington 5th; Harriet Phillips 25th; Milla McKenzie 39th.</li>
   <li>Under 16 Girls: Ruby Laming 3rd; Georgia Bell 27th; Kate Caird 28th.</li>
