@@ -9,6 +9,7 @@
 <Header title="Craighead Diocesan School" subtitle="Sports Portal" />
 
 <main>
+  <h1>Football</h1>
   <div class="columns">
     <!-- put tge images in here
      -->

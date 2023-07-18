@@ -17,7 +17,6 @@
     <div class="column">
       <p>Table Tennis is played on a Wednesday night at the Barry Butler Table Tennis Stadium on Coonoor Rd, 56.30pm to 78.00pm.</p>
       <br />
-      <br />
       <h2>LEVELS</h2>
       <p>Years 9-13</p>
       <br />

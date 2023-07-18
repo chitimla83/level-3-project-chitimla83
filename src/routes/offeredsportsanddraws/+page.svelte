@@ -142,6 +142,8 @@
     font-family: "Poppins";
     font-size: 40px;
     text-align: center;
+    color: #236093;
+    font-weight: bolder;
   }
   a {
     font-family: "Quattrocento Sans";

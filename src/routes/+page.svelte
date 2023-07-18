@@ -100,6 +100,11 @@
     font-size: 20px;
     text-align: center;
   }
+  li {
+    font-family: "Quattrocento Sans";
+    font-size: 17px;
+    text-align: left;
+  }
   h4 {
     font-family: "Quattrocento Sans";
     font-size: 17px;

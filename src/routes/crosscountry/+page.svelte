@@ -8,6 +8,7 @@
 <Nav />
 <Header title="Craighead Diocesan School" subtitle="Sports Portal" />
 <main>
+  <h1>Cross Country</h1>
   <div class="columns">
     <!-- put tge images in here
      -->
