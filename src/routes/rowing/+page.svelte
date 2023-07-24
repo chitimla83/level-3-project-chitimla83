@@ -42,10 +42,13 @@
   <br />
   <h3>ROWING - MAADI CUP 2022</h3>
   <p>Congratulations to our senior rowers who achieved wonderful results at this year's Maadi Cup.A total of 1 Silver and 3 Bronze medals.</p>
-  <li>Nadia Van Den Bosch = U16 Single, Bronze</li>
-  <li>Elsie Talbot = U18 Single, Bronze</li>
-  <li>Elsie Talbot + Paige Butler-Baird = U17 Double, Silver</li>
-  <li>Zoe Gordon + Chanel Gordon = Novice Double, Bronze</li>
+  <ul>
+    <li>Nadia Van Den Bosch = U16 Single, Bronze</li>
+    <li>Elsie Talbot = U18 Single, Bronze</li>
+    <li>Elsie Talbot + Paige Butler-Baird = U17 Double, Silver</li>
+    <li>Zoe Gordon + Chanel Gordon = Novice Double, Bronze</li>
+  </ul>
+
   <br />
   <h3>SISS SECONDARY SCHOOL ROWING CHAMPIONSHIPS 2022</h3>
   <p>
@@ -65,20 +68,24 @@
   </p>
 
   <p><strong> Gold</strong></p>
-  <li>Girls U16 Single – Nadia Van den Bosch</li>
+  <ul>
+    <li>Girls U16 Single – Nadia Van den Bosch</li>
+  </ul>
   <br />
   <p><strong> Silver</strong></p>
-  <li>Girls U18 Novice Double – Zoe Gordon and Chanel Gordon</li>
-  <li>Girls U15 Octuple Sculls – Annabelle Talbot, Isla Crawford, Lilly Grant, Emily Caird, Carmina Cabrera-Martin, Olivia Huddleston, Amber Wall, Ava Yellowlees and Mackenzie Coupland</li>
-  <li>Girls U18 Single – Elsie Talbot</li>
-  <li>Girls U17 Double – Elsie Talbot and Paige Butler- Baird</li>
-  <li>Girls U18 Novice Double – Zoe Gordon and Chanel Gordon</li>
-  <li>Girls U16 Double – Nadia Van Den Bosch and Zoe Gordon</li>
-  <br />
-  <p><strong> Bronze</strong></p>
-  <li>Girls U17 Coxed Quad – Lucy Crawford, Paige Butler Baird, Elise Talbot, Kate Harrison and Mackenzie Coupland.</li>
-  <li>Girls U17 Single – Elsie Talbot</li>
-  <li>Girls U15 Double – Isla Crawford and Lilly Grant</li>
+  <ul>
+    <li>Girls U18 Novice Double – Zoe Gordon and Chanel Gordon</li>
+    <li>Girls U15 Octuple Sculls – Annabelle Talbot, Isla Crawford, Lilly Grant, Emily Caird, Carmina Cabrera-Martin, Olivia Huddleston, Amber Wall, Ava Yellowlees and Mackenzie Coupland</li>
+    <li>Girls U18 Single – Elsie Talbot</li>
+    <li>Girls U17 Double – Elsie Talbot and Paige Butler- Baird</li>
+    <li>Girls U18 Novice Double – Zoe Gordon and Chanel Gordon</li>
+    <li>Girls U16 Double – Nadia Van Den Bosch and Zoe Gordon</li>
+    <br />
+    <p><strong> Bronze</strong></p>
+    <li>Girls U17 Coxed Quad – Lucy Crawford, Paige Butler Baird, Elise Talbot, Kate Harrison and Mackenzie Coupland.</li>
+    <li>Girls U17 Single – Elsie Talbot</li>
+    <li>Girls U15 Double – Isla Crawford and Lilly Grant</li>
+  </ul>
 </main>
 <Footer />
 
@@ -100,6 +107,7 @@
     text-align: left;
   }
   li {
+    list-style-type: circle;
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;

@@ -18,9 +18,11 @@
       <p>Touch is played on a Thursday night at the Old Boys Lower Grounds.</p>
       <br />
       <h2>Grades Are:</h2>
-      <ul>Junior (Years 7&8): 4.00pm and 4.45pm</ul>
-      <ul>Secondary: 5.15pm and 5.50pm</ul>
-      <ul>Womens A & B (Competitive) & Social:6.00pm to 8.00pm (depending on the draw)</ul>
+      <ul>
+        <li>Junior (Years 7&8): 4.00pm and 4.45pm</li>
+        <li>Secondary: 5.15pm and 5.50pm</li>
+        <li>Womens A & B (Competitive) & Social:6.00pm to 8.00pm (depending on the draw)</li>
+      </ul>
       <br />
       <h2>IMPORTANT DATES 2023</h2>
       <p>Aoraki Touch - Sunday 5 March, Timaru</p>
@@ -73,6 +75,7 @@
     text-align: left;
   }
   li {
+    list-style-type: circle;
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;

@@ -52,6 +52,7 @@
     text-align: left;
   }
   li {
+    list-style-type: circle;
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;

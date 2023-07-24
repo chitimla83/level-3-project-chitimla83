@@ -15,12 +15,32 @@
     <div class="column" />
     <!-- start of second column -->
     <div class="column">
+      <!-- start of tile s -->
+      <div class="tile is-ancestor">
+        <div class="tile is-parent">
+          <div class="tile is-child is-4">
+            <Image src="/placeholder.png" alt="Katie Mackenzie" />
+          </div>
+          <!-- child -->
+          <div class="tile is-child">
+            <h2>Teacher in Charge - Katie Mackenzie</h2>
+            <p>mackenzieka@craighead.school.nz</p>
+          </div>
+          <!-- child -->
+        </div>
+        <!-- parent  -->
+      </div>
+      <!-- ancestor -->
+      <!-- end of new tile -->
+
       <h2>LEVELS</h2>
       <p>Year 7-13</p>
+      <br />
       <h2>TERMS</h2>
       <p>Terms 2 and 3</p>
+      <br />
       <h2>COST TBD</h2>
-      <h2>Teacher in Charge - Ms MacKenzie</h2>
+      <br />
       <p>
         Two Craighead equestrian teams has a fantastic day recently at the South Canterbury Pony Clubs Sandalwood Trophy Interschools Dressage and Show Jumping competition.
         <br />
@@ -64,6 +84,7 @@
     text-align: left;
   }
   li {
+    list-style-type: circle;
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;

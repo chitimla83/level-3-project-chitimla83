@@ -14,37 +14,64 @@
      -->
     <div class="column" />
     <!-- start of second column -->
+
     <div class="column">
+      <!-- start of tile s -->
+      <div class="tile is-ancestor">
+        <div class="tile is-parent">
+          <div class="tile is-child is-4">
+            <Image src="/andrewjones.JPG" alt="placeholder" />
+          </div>
+          <!-- child -->
+          <div class="tile is-child">
+            <h2>Teacher in Charge - Andrew Jones</h2>
+            <p>jonesan@craighead.school.nz</p>
+          </div>
+          <!-- child -->
+        </div>
+        <!-- parent  -->
+      </div>
+      <!-- ancestor -->
+      <!-- end of new tile -->
+
       <h2>LEVELS</h2>
       <p>Years 7-13</p>
+      <br />
       <h2>Terms 2 and 3</h2>
       <h2>COST TBD</h2>
+      <br />
       <h2>IMPORTANT DATES 2023</h2>
-      <li>School Cross Country - April 6</li>
-      <li>Aoraki Cross Country - Tuesday 16 May, Ashbury Park, Timaru</li>
+      <p>School Cross Country - April 6</p>
+      <p>Aoraki Cross Country - Tuesday 16 May, Ashbury Park, Timaru</p>
+      <br />
       <h2>UNIFORM</h2>
       <p>Sports PE Top and Shorts, white socks and gymshoes</p>
+      <br />
       <h2>Teacher in Charge: Mr Andrew Jones - jonesan@craighead.school.nz</h2>
-
+      <br />
       <p>Craighead has a proud history of success and participation in athletics and developed a strong sense of 'team' in what is often perceived as an individual sport. Craighead is committed to facilitating opportunities for students to compete at a regional, South Island and national level in both athletics and cross country on an annual basis. Craighead is focused on developing talent and participation working closely with the South Canterbury Amateur Athletics Club to provide coaching opportunities for those that wish to understand more about the different disciplines. Trainings are on Mondays from 4pm at the Stadium and begin in early September.</p>
     </div>
   </div>
 
   <h2>SCHOOL CROSS COUNTRY 2023</h2>
-  <li>Minor Runner Up – Charlie Nicol</li>
-  <li>Minor Champion – Lily Crosbie</li>
-  <li>Junior Runner Up – Ruby Mahuika</li>
-  <li>Junior Champion – Kayla Allington</li>
-  <li>ntermediate Runner Up – Isabella Power</li>
-  <li>Intermediate Champion – Faith Coffin</li>
-  <li>Senior Runner Up – Lydia Giles</li>
-  <li>Senior Champion – Niamh Motley</li>
-  <li>Inter Sports Cross Country Trophy - Rugby</li>
-  <h3>House Points</h3>
-  <li>1st Te Raki 272</li>
-  <li>2nd Te Uru 242</li>
-  <li>3rd Te Tonga 221</li>
-  <li>4th Te Rawhiti 209</li>
+  <ul>
+    <li>Minor Runner Up – Charlie Nicol</li>
+    <li>Minor Champion – Lily Crosbie</li>
+    <li>Junior Runner Up – Ruby Mahuika</li>
+    <li>Junior Champion – Kayla Allington</li>
+    <li>ntermediate Runner Up – Isabella Power</li>
+    <li>Intermediate Champion – Faith Coffin</li>
+    <li>Senior Runner Up – Lydia Giles</li>
+    <li>Senior Champion – Niamh Motley</li>
+    <li>Inter Sports Cross Country Trophy - Rugby</li>
+    <br />
+    <h3>House Points</h3>
+    <li>1st Te Raki 272</li>
+    <li>2nd Te Uru 242</li>
+    <li>3rd Te Tonga 221</li>
+    <li>4th Te Rawhiti 209</li>
+  </ul>
+
   <br />
   <h2>Canterbury Cross Country</h2>
   <p>
@@ -58,9 +85,12 @@
   </p>
   <br />
   <h3>Final Results:</h3>
-  <li>Year 9 Girls: Kayla Allington 5th; Harriet Phillips 25th; Milla McKenzie 39th.</li>
-  <li>Under 16 Girls: Ruby Laming 3rd; Georgia Bell 27th; Kate Caird 28th.</li>
-  <li>Under 19 Girls: Niamh Motley 2nd; Emily Caird 29th</li>
+
+  <ul>
+    <li>Year 9 Girls: Kayla Allington 5th; Harriet Phillips 25th; Milla McKenzie 39th.</li>
+    <li>Under 16 Girls: Ruby Laming 3rd; Georgia Bell 27th; Kate Caird 28th.</li>
+    <li>Under 19 Girls: Niamh Motley 2nd; Emily Caird 29th</li>
+  </ul>
 </main>
 <Footer />
 

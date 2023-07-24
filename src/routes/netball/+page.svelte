@@ -10,11 +10,29 @@
 <h1>Netball</h1>
 <main>
   <div class="columns">
-    <!-- put tge images in here
-     -->
+    <!-- put images -->
+
     <div class="column" />
     <!-- start of second column -->
     <div class="column">
+      <!-- start of tile s -->
+      <div class="tile is-ancestor">
+        <div class="tile is-parent">
+          <div class="tile is-child is-4">
+            <Image src="/ellashaw.JPG" alt="placeholder" />
+          </div>
+          <!-- child -->
+          <div class="tile is-child">
+            <h2>Teacher in Charge - Ella Shaw</h2>
+            <p>shawel@craighead.school.nz</p>
+          </div>
+          <!-- child -->
+        </div>
+        <!-- parent  -->
+      </div>
+      <!-- ancestor -->
+      <!-- end of new tile -->
+
       <p>
         Netball is played on a Saturday at the Aorangi Courts on Morgans Road.
         <br />
@@ -57,8 +75,7 @@
         All teams to wear white socks and gymshoes.
       </p>
       <br />
-      <h2>Teacher in Charge - Miss Shaw</h2>
-      <br />
+
       <h2>Click on the buttons to access the following:</h2>
       <!-- start button -->
       <div class="buttons">
@@ -93,6 +110,7 @@
     text-align: left;
   }
   li {
+    list-style-type: circle;
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;

@@ -15,6 +15,24 @@
     <div class="column" />
     <!-- start of second column -->
     <div class="column">
+      <!-- start of tile s -->
+      <div class="tile is-ancestor">
+        <div class="tile is-parent">
+          <div class="tile is-child is-4">
+            <Image src="/placeholder.png" alt="Jacob Muholland" />
+          </div>
+          <!-- child -->
+          <div class="tile is-child">
+            <h2>Teacher in Charge - Mr Muholland</h2>
+            <p>mulhollandja@craighead.school.nz</p>
+          </div>
+          <!-- child -->
+        </div>
+        <!-- parent  -->
+      </div>
+      <!-- ancestor -->
+      <!-- end of new tile -->
+
       <h2>LEVELS</h2>
       <p>Years 7-13</p>
       <br />
@@ -23,8 +41,6 @@
       <br />
       <h2>UNIFORM</h2>
       <p>School Shorts, sleeved PE top,</p>
-      <br />
-      <h2>​Teacher in Charge - Mr Mulholland</h2>
       <br />
     </div>
   </div>
@@ -63,6 +79,7 @@
     text-align: left;
   }
   li {
+    list-style-type: circle;
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;

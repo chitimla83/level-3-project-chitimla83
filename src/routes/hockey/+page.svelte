@@ -29,17 +29,21 @@
       </p>
       <br />
       <h3>​​​​​​​Subs TBC for 2023.</h3>
-      <li>2023 Subs for 1st XI Team - $</li>
-      <li>2023 Subs for 2nd XI Team - $</li>
-      <li>2023 Subs for Junior Teams -</li>
+      <ul>
+        <li>2023 Subs for 1st XI Team - $</li>
+        <li>2023 Subs for 2nd XI Team - $</li>
+        <li>2023 Subs for Junior Teams -</li>
+      </ul>
       <p>All subs will be charged to your account</p>
       <br />
       <h2>FACEBOOK</h2>
       <p>There has been a Facebook page set up for Craighead Hockey, for players, parents, caregivers and coaches. This will be a way of getting quick messages out to the girls and parents.</p>
       <h2>UNIFORM</h2>
-      <li>A Team - Dress supplied. Socks to be purchased.</li>
-      <li>Other teams - Top supplied. Skirt and socks to be purchased</li>
-      <li>Primary teams are supplied with a top. Skirt and socks to be purchased.All girls are to wear school tracksuit to and from game</li>
+      <ul>
+        <li>A Team - Dress supplied. Socks to be purchased.</li>
+        <li>Other teams - Top supplied. Skirt and socks to be purchased</li>
+        <li>Primary teams are supplied with a top. Skirt and socks to be purchased.All girls are to wear school tracksuit to and from game</li>
+      </ul>
       <br />
       <h2>Chairperson: Andrew Smith</h2>
       <p>
@@ -76,6 +80,7 @@
     text-align: left;
   }
   li {
+    list-style-type: circle;
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;

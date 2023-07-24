@@ -40,23 +40,25 @@
           <br />
           <h4>Craighead Diocesan School expects our students who play Sport to:</h4>
           <br />
-          <li>Wear the correct uniform to all games and practices and ensure that it is clean and tidy be punctual to all games and practices</li>
-          <li>Abide by the referee’s/umpire’s decisions without complaint or argument</li>
-          <li>Avoid inappropriate behaviour such as swearing, fighting, arguing – even when they may be provoked!</li>
-          <li>Show loyalty to their team, captain, coach and School</li>
-          <li>Congratulate good sporting behaviour, whether it is their own team or the opposition</li>
+          <ul>
+            <li>Wear the correct uniform to all games and practices and ensure that it is clean and tidy be punctual to all games and practices</li>
+            <li>Abide by the referee’s/umpire’s decisions without complaint or argument</li>
+            <li>Avoid inappropriate behaviour such as swearing, fighting, arguing – even when they may be provoked!</li>
+            <li>Show loyalty to their team, captain, coach and School</li>
+            <li>Congratulate good sporting behaviour, whether it is their own team or the opposition</li>
+          </ul>
           <br />
           <h4>
             <strong> While some sports may seem more ‘competitive’ than others, all girls take their participation very seriously, with teams and individuals always performing very highly. </strong>
           </h4>
           <br />
           <h3>To Play a Sport:</h3>
-          <h4>
+          <ul>
             <li>All girls and their parents must complete appropriate sections on the <strong>CRAIGHEAD SPORTS PORTAL </strong>'online registration.</li>
             <li>Affiliations fees are charged for all extracurricular sporting activities.</li>
             <li>Teaching staff have the right to prevent students attending these activities in school time if their work is not up to date.</li>
             <li>When any girl commits herself to a team they must attend all practices and games. Where circumstances mean that girls cannot attend at any time, then the captain and coach must be informed.</li>
-          </h4>
+          </ul>
           <br />
           <h4>
             <strong> Sports practice days can be any day of the week and practice times vary with the sport, but generally they are one hour long, with the afternoon practices usually finishing by 7.30pm.</strong>
@@ -101,6 +103,7 @@
     text-align: center;
   }
   li {
+    list-style-type: circle;
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;

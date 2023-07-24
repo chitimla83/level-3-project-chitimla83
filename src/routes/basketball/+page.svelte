@@ -15,6 +15,23 @@
     <div class="column" />
     <!-- start of second column -->
     <div class="column">
+      <!-- start of tile s -->
+      <div class="tile is-ancestor">
+        <div class="tile is-parent">
+          <div class="tile is-child is-4">
+            <Image src="/placeholder.png" alt="Sasha Smilie" />
+          </div>
+          <!-- child -->
+          <div class="tile is-child">
+            <h2>Teacher in Charge - Sasha Smilie</h2>
+            <p>smilliesa@craighead.school.nz</p>
+          </div>
+          <!-- child -->
+        </div>
+        <!-- parent  -->
+      </div>
+      <!-- ancestor -->
+      <!-- end of new tile -->
       <h2>LEVELS</h2>
       <p>Years 7-13</p>
       <br />
@@ -28,8 +45,6 @@
       <br />
       <h2>UNIFORM</h2>
       <p>School shorts, singlet provided, court shoes. Senior A - uniform supplied</p>
-      <br />
-      <h2>Teacher in Charge - Ms Smillie</h2>
       <br />
       <h2>Team Supervision:</h2>
       <p>Each team <strong>MUST</strong> have adult supervision while they are at the venue, while their team is either playing or carrying out their duty. (If the venue controller requests to speak to a team's supervisor and the players cannot bring this person to the controller, the team will be penalised).</p>
@@ -77,6 +92,7 @@
     text-align: left;
   }
   li {
+    list-style-type: circle;
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;

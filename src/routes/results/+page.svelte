@@ -28,7 +28,7 @@
   <p>On Tuesday 16 May, Craighead had 21 students compete at the Aoraki Cross Country Championships at Ashbury Park, Timaru. The list of competitors with their team and individual results are as follows.</p>
   <br />
   <h3>Year 9</h3>
-  <p>(team of Kayla, Ruby and Harriett placed 1st overall!)</p>
+  <p>team of Kayla, Ruby and Harriett placed 1st overall!</p>
   <br />
   <ul>
     <li>Kayla Allington, 1st place Time:12.47.98</li>
@@ -41,7 +41,7 @@
   </ul>
   <br />
   <h3>Junior Girls</h3>
-  <p>(team of Ruby, Faith and Georgia placed 1st overall!)</p>
+  <p>team of Ruby, Faith and Georgia placed 1st overall!</p>
   <br />
   <ul>
     <li>Ruby Laming, 1st place Time: 12.43.54</li>
@@ -54,7 +54,7 @@
   </ul>
   <br />
   <h3>Senior Girls</h3>
-  <p>(team of Niamh, Madi and Lucy placed 1st overall!)</p>
+  <p>team of Niamh, Madi and Lucy placed 1st overall!</p>
   <br />
   <ul>
     <li>Niamh Motley, 1st place Time: 12.25.39</li>
@@ -89,6 +89,7 @@
     text-align: left;
   }
   li {
+    list-style-type: circle;
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;
