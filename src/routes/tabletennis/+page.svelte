@@ -1,12 +1,7 @@
 <script>
-  import Header from "$lib/Header.svelte"
-  import Footer from "$lib/Footer.svelte"
-  import Nav from "$lib/Nav.svelte"
   import Image from "$lib/Image.svelte"
 </script>
 
-<Nav />
-<Header title="Craighead Diocesan School" subtitle="Sports Portal" />
 <main>
   <h1>Table Tennis</h1>
   <div class="columns">
@@ -36,7 +31,6 @@
     </div>
   </div>
 </main>
-<Footer />
 
 <style>
   h1 {
@@ -54,12 +48,16 @@
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;
+    margin-left: 20px;
+    margin-right: 20px;
   }
   li {
     list-style-type: circle;
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;
+    margin-left: 20px;
+    margin-right: 20px;
   }
   h3 {
     font-family: "Poppins";

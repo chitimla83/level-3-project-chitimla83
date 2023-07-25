@@ -1,12 +1,7 @@
 <script>
-  import Header from "$lib/Header.svelte"
-  import Footer from "$lib/Footer.svelte"
-  import Nav from "$lib/Nav.svelte"
   import Image from "$lib/Image.svelte"
 </script>
 
-<Nav />
-<Header title="Craighead Diocesan School" subtitle="Sports Portal" />
 <!-- Use Columnns -->
 <main>
   <h1>Contact us</h1>
@@ -18,7 +13,7 @@
       <div class="tile is-ancestor">
         <div class="tile is-parent">
           <div class="tile is-child is-4">
-            <Image src="/placeholder.png" alt="placeholder" />
+            <Image src="/jmuholland.png" alt="Jacob Muholland" />
           </div>
           <!-- child -->
           <div class="tile is-child">
@@ -38,7 +33,7 @@
       <div class="tile is-ancestor">
         <div class="tile is-parent">
           <div class="tile is-child is-4">
-            <Image src="/placeholder.png" alt="placeholder" />
+            <Image src="/dianesurridge.png" alt="Diane Surridge" />
           </div>
           <!-- child -->
           <div class="tile is-child">
@@ -363,8 +358,6 @@
     </div>
   </div>
 </main>
-
-<Footer />
 
 <style>
   h1 {
