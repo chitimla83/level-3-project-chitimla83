@@ -79,11 +79,6 @@
       <!-- end of button -->
       <!-- start button -->
       <div class="buttons">
-        <a class="button is-info is-light is-large is-hovered" href="skiingandsnowboarding">Skiing and Snowboarding</a>
-      </div>
-      <!-- end of button -->
-      <!-- start button -->
-      <div class="buttons">
         <a class="button is-info is-light is-large is-hovered" href="rowing">Rowing</a>
       </div>
       <!-- end of button -->

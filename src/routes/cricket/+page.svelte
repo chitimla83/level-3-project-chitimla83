@@ -5,56 +5,71 @@
 <main>
   <h1>Cricket</h1>
   <div class="columns">
-    <!-- put tge images in here
-     -->
-    <div class="column" />
-    <!-- start of second column -->
-    <div class="column">
-      <!-- start of tile s -->
-      <div class="tile is-ancestor">
-        <div class="tile is-parent">
-          <div class="tile is-child is-4">
-            <Image src="/placeholder.png" alt="Jacob Muholland" />
+    <!-- start of tile -->
+    <div class="tile is-ancestor">
+      <div class="tile is-vertical is-12">
+        <div class="tile">
+          <div class="tile is-parent is-vertical">
+            <article class="tile is-child">
+              <Image src="/athletics2.png" alt="school athletics" />
+            </article>
+            <article class="tile is-child">
+              <Image src="/athletics.png" alt="school athletics" />
+            </article>
           </div>
-          <!-- child -->
-          <div class="tile is-child">
-            <h2>Teacher in Charge - Mr Muholland</h2>
-            <p>mulhollandja@craighead.school.nz</p>
-          </div>
-          <!-- child -->
-        </div>
-        <!-- parent  -->
-      </div>
-      <!-- ancestor -->
-      <!-- end of new tile -->
+          <!-- end of tile -->
 
-      <h2>LEVELS</h2>
-      <p>Years 7-13</p>
-      <br />
-      <h2>TERMS</h2>
-      <p>Terms 1</p>
-      <br />
-      <h2>UNIFORM</h2>
-      <p>School Shorts, sleeved PE top,</p>
-      <br />
+          <div class="column" />
+          <!-- start of second column -->
+          <div class="column">
+            <!-- start of tile s -->
+            <div class="tile is-ancestor">
+              <div class="tile is-parent">
+                <div class="tile is-child is-4">
+                  <Image src="/jmuholland.png" alt="Jacob Muholland" />
+                </div>
+                <!-- child -->
+                <div class="tile is-child">
+                  <h2>Teacher in Charge - Mr Muholland</h2>
+                  <p>mulhollandja@craighead.school.nz</p>
+                </div>
+                <!-- child -->
+              </div>
+              <!-- parent  -->
+            </div>
+            <!-- ancestor -->
+            <!-- end of new tile -->
+
+            <h2>LEVELS</h2>
+            <p>Years 7-13</p>
+            <br />
+            <h2>TERMS</h2>
+            <p>Terms 1</p>
+            <br />
+            <h2>UNIFORM</h2>
+            <p>School Shorts, sleeved PE top,</p>
+            <br />
+          </div>
+        </div>
+
+        <h2>Women's Quick Smash Cricket</h2>
+        <ul>
+          <li>All games are being played on a Monday night at Ashbury Park</li>
+          <li>Runs for 6 consecutive Monday evenings</li>
+          <li>8 females per side</li>
+          <li>12 overs per side</li>
+          <li>Wides and no balls worth 1 run each</li>
+          <li>Batters bat in pairs</li>
+          <li>Each batting pair bats for 3 overs</li>
+          <li>Loss of a wicket means 6 runs taken off score</li>
+          <li>Each player has to bowl at least 1 over</li>
+          <li>Incrediball used, no need for pads or helmets</li>
+          <li>Plastic stumps or wooden springback stumps to be used</li>
+          <li>No cost to enter</li>
+        </ul>
+      </div>
     </div>
   </div>
-
-  <h2>Women's Quick Smash Cricket</h2>
-  <ul>
-    <li>All games are being played on a Monday night at Ashbury Park</li>
-    <li>Runs for 6 consecutive Monday evenings</li>
-    <li>8 females per side</li>
-    <li>12 overs per side</li>
-    <li>Wides and no balls worth 1 run each</li>
-    <li>Batters bat in pairs</li>
-    <li>Each batting pair bats for 3 overs</li>
-    <li>Loss of a wicket means 6 runs taken off score</li>
-    <li>Each player has to bowl at least 1 over</li>
-    <li>Incrediball used, no need for pads or helmets</li>
-    <li>Plastic stumps or wooden springback stumps to be used</li>
-    <li>No cost to enter</li>
-  </ul>
 </main>
 
 <style>

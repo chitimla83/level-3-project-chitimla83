@@ -76,7 +76,7 @@
           </div>
           <!-- child -->
           <div class="tile is-child">
-            <h2>Briar Annet</h2>
+            <h2>Briar Annett</h2>
             <p>Code Captain: Swimming</p>
             <p>annettbr03@craighead.school.nz</p>
           </div>
@@ -212,7 +212,7 @@
           </div>
           <!-- child -->
           <div class="tile is-child">
-            <h2>Madeline Thomas</h2>
+            <h2>Madi Thomas</h2>
             <p>Sports Leader</p>
             <p>thomasma59@craighead.school.nz</p>
           </div>
