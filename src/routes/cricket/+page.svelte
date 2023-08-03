@@ -83,11 +83,13 @@
   h2 {
     font-family: "Poppins";
     font-size: 25px;
+    margin-left: 50px;
   }
   p {
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;
+    margin-left: 50px;
   }
   li {
     list-style-type: circle;
@@ -101,5 +103,6 @@
   h3 {
     font-family: "Poppins";
     font-size: 20px;
+    margin-left: 50px;
   }
 </style>
