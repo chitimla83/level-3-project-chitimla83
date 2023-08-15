@@ -43,9 +43,6 @@
             <h2>TERMS</h2>
             <p>Terms 2 and 3</p>
             <br />
-            <h2>Teacher in Charge - Mr Mulholland and Ms Smillie</h2>
-            <p>Aoraki JuniorBasketball - Wednesday 22 June, Timaru</p>
-            <br />
             <h2>2023 COSTS TBC</h2>
             <br />
             <h2>UNIFORM</h2>

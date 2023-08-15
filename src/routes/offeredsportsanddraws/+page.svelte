@@ -93,11 +93,7 @@
         <a class="button is-info is-light is-large is-hovered" href="shooting">Shooting</a>
       </div>
       <!-- end of button -->
-      <!-- start button -->
-      <div class="buttons">
-        <a class="button is-info is-light is-large is-hovered" href="tabletennis">Table Tennis</a>
-      </div>
-      <!-- end of button -->
+
       <!-- start button -->
       <div class="buttons">
         <a class="button is-info is-light is-large is-hovered" href="squash">Squash</a>
