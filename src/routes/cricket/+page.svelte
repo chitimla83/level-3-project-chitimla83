@@ -11,10 +11,7 @@
         <div class="tile">
           <div class="tile is-parent is-vertical">
             <article class="tile is-child">
-              <Image src="/athletics2.png" alt="school athletics" />
-            </article>
-            <article class="tile is-child">
-              <Image src="/athletics.png" alt="school athletics" />
+              <Image src="/cricket.png" alt="Craighead girl playing cricket externally" />
             </article>
           </div>
           <!-- end of tile -->

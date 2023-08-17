@@ -24,6 +24,8 @@
           <div class="column" />
           <!-- start of second column -->
           <div class="column">
+            <h2>Chairperson: Andrew Smith</h2>
+            <br />
             <h2>LEVELS</h2>
             <p>Years 7-13</p>
             <br />
@@ -54,7 +56,6 @@
               <li>Primary teams are supplied with a top. Skirt and socks to be purchased.All girls are to wear school tracksuit to and from game</li>
             </ul>
             <br />
-            <h2>Chairperson: Andrew Smith</h2>
             <p>
               Hockey will be played at the Hockey Turf, beside the Comunity Trust Sports Centre on Morgans Rd. Senior A on Saturdays and Senior B/C on Sundays. The draw is published on the Hockey South Canterbury Website.
               <br />

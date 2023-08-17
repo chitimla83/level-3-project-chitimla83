@@ -54,8 +54,6 @@
               <br />
               During Terms 1 and 4, training camps and regettas are held at weekends. Training occurs after school and early in the mornings. Craighead attends the Maadi Cup.
             </p>
-            <br />
-            <h2>Teacher in Charge - Ms Graham</h2>
           </div>
         </div>
         <h2>ROWING 2022</h2>

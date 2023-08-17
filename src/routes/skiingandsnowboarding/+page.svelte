@@ -50,8 +50,6 @@
             <h2>COST</h2>
             <p>TBD</p>
             <br />
-            <h2>Teacher in Charge - Miss Gilbert</h2>
-            <br />
             <h2>IMPORTANT DATES 2023</h2>
             <p>Aoraki Snow Sports - Monday 14 August, Mt Dobson</p>
             <br />

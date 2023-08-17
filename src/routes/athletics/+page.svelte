@@ -128,9 +128,8 @@
           <li>G19 – Marissa Shannon, 2nd 800m</li>
           <li>G19 – Madi Thomas, 2nd 200m and 400m</li>
         </ul>
-
-        <br />
         <p>Relays – 1st in G19, G16 and G15 and 3rd in G14 4 x 100m</p>
+        <br />
       </div>
     </div>
   </div>
