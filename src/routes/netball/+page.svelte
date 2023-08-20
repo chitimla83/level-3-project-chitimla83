@@ -7,7 +7,7 @@
   <div class="columns">
     <!-- start of tile -->
     <div class="tile is-ancestor">
-      <div class="tile is-vertical is-12">
+      <div class="tile is-vertical is-11">
         <div class="tile">
           <div class="tile is-parent is-vertical">
             <article class="tile is-child">
@@ -25,12 +25,12 @@
             <!-- start of tile s -->
             <div class="tile is-ancestor">
               <div class="tile is-parent">
-                <div class="tile is-child is-4">
+                <div class="tile is-child is-6">
                   <Image src="/ellashaw.JPG" alt="placeholder" />
                 </div>
                 <!-- child -->
                 <div class="tile is-child">
-                  <h2>Teacher in Charge - Ella Shaw</h2>
+                  <h3>Teacher in Charge - Ella Shaw</h3>
                   <p>shawel@craighead.school.nz</p>
                 </div>
                 <!-- child -->
@@ -83,7 +83,7 @@
             </p>
             <br />
 
-            <h2>Click on the buttons to access the following:</h2>
+            <h3>Click on the buttons to access the following:</h3>
             <!-- start button -->
             <div class="buttons">
               <a class="button is-info is-light is-large is-hovered" href="https://www.netballsouthcanterbury.co.nz/">Weekly Draws and Results</a>
@@ -94,6 +94,7 @@
               <a class="button is-info is-light is-large is-hovered" href="https://forms.gle/3K741D6jbPW3NCMMA">Netball Sign Ups 2023</a>
             </div>
             <!-- end of button -->
+            <br />
           </div>
         </div>
       </div>
@@ -112,24 +113,27 @@
   h2 {
     font-family: "Poppins";
     font-size: 25px;
+    padding-left: 45px;
   }
   p {
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;
-    margin-left: 20px;
-    margin-right: 20px;
+    padding-right: 60px;
+    padding-left: 60px;
   }
   li {
-    list-style-type: circle;
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;
-    margin-left: 20px;
+    margin-left: 70px;
+    list-style-type: circle;
     margin-right: 20px;
   }
   h3 {
     font-family: "Poppins";
     font-size: 20px;
+    margin-left: 50px;
+    margin-right: 20px;
   }
 </style>

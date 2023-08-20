@@ -7,13 +7,11 @@
   <div class="columns">
     <!-- start of tile -->
     <div class="tile is-ancestor">
-      <div class="tile is-vertical is-12">
+      <div class="tile is-vertical is-11">
         <div class="tile">
           <div class="tile is-parent is-vertical">
             <article class="tile is-child">
               <Image src="/crosscountry2.png" alt="primary school cross country" />
-            </article>
-            <article class="tile is-child">
               <Image src="/crosscountry.png" alt="senior cross country" />
             </article>
           </div>
@@ -25,12 +23,12 @@
             <!-- start of tile s -->
             <div class="tile is-ancestor">
               <div class="tile is-parent">
-                <div class="tile is-child is-4">
+                <div class="tile is-child is-6">
                   <Image src="/andrewjones.JPG" alt="placeholder" />
                 </div>
                 <!-- child -->
                 <div class="tile is-child">
-                  <h2>Teacher in Charge - Andrew Jones</h2>
+                  <h3>Teacher in Charge - Andrew Jones</h3>
                   <p>jonesan@craighead.school.nz</p>
                 </div>
                 <!-- child -->
@@ -52,8 +50,6 @@
             <br />
             <h2>UNIFORM</h2>
             <p>Sports PE Top and Shorts, white socks and gymshoes</p>
-            <br />
-            <h2>Teacher in Charge: Mr Andrew Jones - jonesan@craighead.school.nz</h2>
             <br />
             <p>Craighead has a proud history of success and participation in athletics and developed a strong sense of 'team' in what is often perceived as an individual sport. Craighead is committed to facilitating opportunities for students to compete at a regional, South Island and national level in both athletics and cross country on an annual basis. Craighead is focused on developing talent and participation working closely with the South Canterbury Amateur Athletics Club to provide coaching opportunities for those that wish to understand more about the different disciplines. Trainings are on Mondays from 4pm at the Stadium and begin in early September.</p>
           </div>
@@ -113,25 +109,27 @@
   h2 {
     font-family: "Poppins";
     font-size: 25px;
-    margin-left: 50px;
+    padding-left: 45px;
   }
   p {
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;
-    margin-left: 50px;
+    padding-right: 60px;
+    padding-left: 60px;
   }
   li {
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;
-    margin-left: 50px;
-    margin-right: 20px;
+    margin-left: 70px;
     list-style-type: circle;
+    margin-right: 20px;
   }
   h3 {
     font-family: "Poppins";
     font-size: 20px;
     margin-left: 50px;
+    margin-right: 20px;
   }
 </style>

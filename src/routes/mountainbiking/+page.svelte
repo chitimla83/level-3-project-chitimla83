@@ -7,7 +7,7 @@
   <div class="columns">
     <!-- start of tile -->
     <div class="tile is-ancestor">
-      <div class="tile is-vertical is-12">
+      <div class="tile is-vertical is-11">
         <div class="tile">
           <div class="tile is-parent is-vertical">
             <article class="tile is-child">
@@ -18,11 +18,28 @@
           <div class="column" />
           <!-- start of second column -->
           <div class="column">
-            <h2>​Teacher in Charge - Mrs Surridge</h2>
+            <!-- start of tile s -->
+            <div class="tile is-ancestor">
+              <div class="tile is-parent">
+                <div class="tile is-child is-4">
+                  <Image src="/dianesurridge.png" alt="Diane Surridge" />
+                </div>
+                <!-- child -->
+                <div class="tile is-child">
+                  <h3>Teacher in Charge - Diane Surridge</h3>
+                  <br />
+                  <p>surridgedi@craighead.school.nz</p>
+                </div>
+                <!-- child -->
+              </div>
+              <!-- parent  -->
+            </div>
+            <!-- ancestor -->
+            <!-- end of new tile -->
+
+            <h3>Aoraki Mountainbiking - Saturday 16 September</h3>
             <br />
-            <h2>Aoraki Mountainbiking - Saturday 16 September</h2>
-            <br />
-            <h2>Aoraki Cycling - Tuesday 13 June</h2>
+            <h3>Aoraki Cycling - Tuesday 13 June</h3>
             <br />
           </div>
         </div>
@@ -30,7 +47,6 @@
         <p>Over the October school holiday break both Zoe Spillane and Olivia Ewing competed in a number of cycling events at both Regional and National levels, both coming away with great results:</p>
         <br />
         <h3>Olivia’s results and races</h3>
-        <br />
         <p>Yunca Tour – Olivia finished 1st in the Green Sprinters Jersey competition , which was a best total on all the sprints. Due to a mechanical issue on her bike on stage 4, she lost time in the overall race and finished 6th overall.</p>
         <ul>
           <li>Stage 1 – 3rd Place</li>
@@ -107,26 +123,31 @@
   h2 {
     font-family: "Poppins";
     font-size: 25px;
-    margin-left: 50px;
+    padding-left: 45px;
   }
   p {
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;
-    margin-left: 50px;
-    margin-right: 20px;
+    padding-right: 60px;
+    padding-left: 60px;
   }
   li {
-    list-style-type: circle;
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;
-    margin-left: 50px;
+    margin-left: 70px;
+    list-style-type: circle;
     margin-right: 20px;
   }
   h3 {
     font-family: "Poppins";
     font-size: 20px;
     margin-left: 50px;
+    margin-right: 20px;
+  }
+  .is-child {
+    display: flex !important;
+    align-items: center !important;
   }
 </style>

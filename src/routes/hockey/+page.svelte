@@ -7,7 +7,7 @@
   <div class="columns">
     <!-- start of tile -->
     <div class="tile is-ancestor">
-      <div class="tile is-vertical is-12">
+      <div class="tile is-vertical is-11">
         <div class="tile">
           <div class="tile is-parent is-vertical">
             <article class="tile is-child">
@@ -23,8 +23,8 @@
           <!-- end of tile -->
           <div class="column" />
           <!-- start of second column -->
-          <div class="column">
-            <h2>Chairperson: Andrew Smith</h2>
+          <div class="column is-4">
+            <h3>Chairperson: Andrew Smith</h3>
             <br />
             <h2>LEVELS</h2>
             <p>Years 7-13</p>
@@ -67,6 +67,7 @@
               <a class="button is-info is-light is-large is-hovered" href="https://www.sporty.co.nz/hockeysouthcanterbury">Hockey South Canterbury</a>
             </div>
             <!-- end of button -->
+            <br />
           </div>
         </div>
       </div>
@@ -85,24 +86,27 @@
   h2 {
     font-family: "Poppins";
     font-size: 25px;
+    padding-left: 45px;
   }
   p {
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;
-    margin-left: 20px;
-    margin-right: 20px;
+    padding-right: 60px;
+    padding-left: 60px;
   }
   li {
-    list-style-type: circle;
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;
-    margin-left: 20px;
+    margin-left: 70px;
+    list-style-type: circle;
     margin-right: 20px;
   }
   h3 {
     font-family: "Poppins";
     font-size: 20px;
+    margin-left: 50px;
+    margin-right: 20px;
   }
 </style>

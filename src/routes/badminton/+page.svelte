@@ -8,7 +8,7 @@
   <div class="columns">
     <!-- start of tile -->
     <div class="tile is-ancestor">
-      <div class="tile is-vertical is-12">
+      <div class="tile is-vertical is-11">
         <div class="tile">
           <div class="tile is-parent is-vertical">
             <article class="tile is-child">
@@ -23,12 +23,17 @@
             <!-- start of tile s -->
             <div class="tile is-ancestor">
               <div class="tile is-parent">
-                <div class="tile is-child is-4">
+                <div class="tile is-child is-6">
                   <Image src="/dylangibbs.jpg" alt="Dylan Gibbs" />
                 </div>
                 <!-- child -->
                 <div class="tile is-child">
-                  <h2>Teacher in Charge - Dylan Gibbs</h2>
+                  <h3>
+                    Teacher in Charge-
+                    <br />
+                    Dylan Gibbs
+                  </h3>
+                  <br />
                   <p>gibbsdy@craighead.school.nz</p>
                 </div>
                 <!-- child -->
@@ -84,26 +89,27 @@
   h2 {
     font-family: "Poppins";
     font-size: 25px;
-    margin-left: 50px;
+    padding-left: 45px;
   }
   p {
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;
-    margin-left: 50px;
-    margin-right: 20px;
+    padding-right: 60px;
+    padding-left: 60px;
   }
   li {
-    list-style-type: circle;
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;
-    margin-left: 50px;
+    margin-left: 70px;
+    list-style-type: circle;
     margin-right: 20px;
   }
   h3 {
     font-family: "Poppins";
     font-size: 20px;
     margin-left: 50px;
+    margin-right: 20px;
   }
 </style>

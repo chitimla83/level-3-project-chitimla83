@@ -113,6 +113,7 @@
       <div class="buttons">
         <a class="button is-info is-light is-large is-hovered" href="volleyball">Volleyball</a>
       </div>
+      <br />
       <!-- end of button -->
     </div>
   </div>
@@ -131,9 +132,7 @@
     font-size: 20px;
   }
 
-  button {
-    width: fit-content;
-    margin-left: auto;
-    margin-right: auto;
+  div {
+    margin-left: 40px;
   }
 </style>

@@ -62,7 +62,6 @@
   </ul>
   <br />
   <p>Congratulations to the Craighead teams for placing first in all three grades!</p>
-  <!-- put info -->
 </main>
 
 <style>
@@ -76,24 +75,27 @@
   h2 {
     font-family: "Poppins";
     font-size: 25px;
+    padding-left: 45px;
   }
   p {
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;
-    margin-left: 20px;
-    margin-right: 20px;
+    padding-right: 60px;
+    padding-left: 60px;
   }
   li {
-    list-style-type: circle;
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;
-    margin-left: 20px;
+    margin-left: 70px;
+    list-style-type: circle;
     margin-right: 20px;
   }
   h3 {
     font-family: "Poppins";
     font-size: 20px;
+    margin-left: 50px;
+    margin-right: 20px;
   }
 </style>

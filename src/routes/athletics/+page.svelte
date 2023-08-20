@@ -30,7 +30,7 @@
                 </div>
                 <!-- child -->
                 <div class="tile is-child">
-                  <h2>Teacher in Charge - Andrew Jones</h2>
+                  <h3>Teacher in Charge - Andrew Jones</h3>
                   <p>jonesan@craighead.school.nz</p>
                 </div>
                 <!-- child -->
@@ -71,7 +71,7 @@
         <h2>​​​​​​​2023 School Athletics</h2>
         <h3>Champion House Cup:</h3>
         <ul>
-          <li>1st TeTongai - 903 points, 2nd Te Rawhiti - 813 points, 3rd Te Uru 807 points, 4th Te Raki 787 points</li>
+          <li>1st Te Tonga - 903 points, 2nd Te Rawhiti - 813 points, 3rd Te Uru 807 points, 4th Te Raki 787 points</li>
           <li>Boarders vs Daygirls Relay - 1st Daygirls 2nd Boarders</li>
           <li>Staff vs Year 13 Relay - 1st Staff 2nd Year 13</li>
           <li>House Chant - 1st Te Uru 2nd Te Rawhiti 3rd Te Tonga</li>
@@ -146,21 +146,20 @@
   h2 {
     font-family: "Poppins";
     font-size: 25px;
-    margin-left: 24px;
+    padding-left: 45px;
   }
   p {
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;
-    margin-left: 50px;
-    margin-right: 20px;
+    padding-right: 60px;
+    padding-left: 60px;
   }
   li {
-    list-style-type: circle;
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;
-    margin-left: 50px;
+    margin-left: 70px;
     list-style-type: circle;
     margin-right: 20px;
   }

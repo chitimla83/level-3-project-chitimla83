@@ -24,12 +24,12 @@
             <!-- start of tile s -->
             <div class="tile is-ancestor">
               <div class="tile is-parent">
-                <div class="tile is-child is-4">
+                <div class="tile is-child is-6">
                   <Image src="/dianesurridge.png" alt="Diane Surridge" />
                 </div>
                 <!-- child -->
                 <div class="tile is-child">
-                  <h2>Teacher in Charge - Diane Surridge</h2>
+                  <h3>Teacher in Charge - Diane Surridge</h3>
                   <p>surridgedi@craighead.school.nz</p>
                 </div>
                 <!-- child -->
@@ -56,9 +56,6 @@
         <h2>2023 Swimming Sports</h2>
         <h3>Inter-House Relay</h3>
         <ul>
-          <li>1st Te Rawhiti (Rec)</li>
-          <li>2nd Te Uru</li>
-          <li>3rd Te Tonga</li>
           <li>1st Te Rawhiti (Rec)</li>
           <li>2nd Te Uru</li>
           <li>3rd Te Tonga</li>
@@ -97,6 +94,7 @@
           <br />
           <li>Senior Champion: Amalia Cabrera-Martin</li>
           <li>Runner up: Briar Annett</li>
+          <br />
         </ul>
       </div>
     </div>
@@ -114,31 +112,27 @@
   h2 {
     font-family: "Poppins";
     font-size: 25px;
-    margin-left: 25px;
+    padding-left: 45px;
   }
   p {
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;
-    margin-left: 20px;
-    margin-right: 20px;
+    padding-right: 60px;
+    padding-left: 60px;
   }
   li {
-    list-style-type: circle;
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;
-    margin-left: 50px;
+    margin-left: 70px;
+    list-style-type: circle;
     margin-right: 20px;
   }
   h3 {
     font-family: "Poppins";
     font-size: 20px;
-    margin-left: 25px;
-  }
-  ul {
-    font-family: "Quattrocento Sans";
-    font-size: 17px;
-    text-align: left;
+    margin-left: 50px;
+    margin-right: 20px;
   }
 </style>

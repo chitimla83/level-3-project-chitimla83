@@ -8,7 +8,7 @@
   <div class="columns">
     <!-- start of tile -->
     <div class="tile is-ancestor">
-      <div class="tile is-vertical is-12">
+      <div class="tile is-vertical is-11">
         <div class="tile">
           <div class="tile is-parent is-vertical">
             <article class="tile is-child">
@@ -25,12 +25,12 @@
             <!-- start of tile s -->
             <div class="tile is-ancestor">
               <div class="tile is-parent">
-                <div class="tile is-child is-4">
+                <div class="tile is-child is-6">
                   <Image src="/Mason M.JPG" alt="Max Mason" />
                 </div>
                 <!-- child -->
                 <div class="tile is-child">
-                  <h2>Teacher in Charge - Max Mason</h2>
+                  <h3>Teacher in Charge - Max Mason</h3>
                   <p>masonma@craighead.school.nz</p>
                 </div>
                 <!-- child -->
@@ -75,7 +75,7 @@
             <br />
             <p>Please note that for all games girls will need: - School shorts, school rugby jersey, school socks, warm-up tracksuit pants and top, mouthguard (no mouthguard = no play!), own strapping tape.</p>
             <br />
-            <h2>The fees for the 2023 season are: TBC</h2>
+            <h3>The fees for the 2023 season : TBC</h3>
             <p>
               <strong
                 >All subs will be charged to your account.
@@ -85,6 +85,7 @@
               <br />
               If you have any queries or would like to discuss any aspect of the rugby season or team, then please don’t hesitate to contact Mr Mulholland.
             </p>
+            <br />
           </div>
         </div>
       </div>
@@ -103,24 +104,27 @@
   h2 {
     font-family: "Poppins";
     font-size: 25px;
+    padding-left: 45px;
   }
   p {
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;
-    margin-left: 20px;
-    margin-right: 20px;
+    padding-right: 60px;
+    padding-left: 60px;
   }
   li {
-    list-style-type: circle;
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;
-    margin-left: 20px;
+    margin-left: 70px;
+    list-style-type: circle;
     margin-right: 20px;
   }
   h3 {
     font-family: "Poppins";
     font-size: 20px;
+    margin-left: 50px;
+    margin-right: 20px;
   }
 </style>

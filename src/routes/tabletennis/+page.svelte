@@ -19,7 +19,7 @@
             </div>
             <!-- child -->
             <div class="tile is-child">
-              <h2>Teacher in Charge - Diane Surridge</h2>
+              <h3>Teacher in Charge - Diane Surridge</h3>
               <p>surridgedi@craighead.school.nz</p>
             </div>
             <!-- child -->
@@ -60,29 +60,27 @@
   h2 {
     font-family: "Poppins";
     font-size: 25px;
+    padding-left: 45px;
   }
   p {
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;
-    margin-left: 20px;
-    margin-right: 20px;
+    padding-right: 60px;
+    padding-left: 60px;
   }
   li {
-    list-style-type: circle;
     font-family: "Quattrocento Sans";
     font-size: 17px;
     text-align: left;
-    margin-left: 20px;
+    margin-left: 70px;
+    list-style-type: circle;
     margin-right: 20px;
   }
   h3 {
     font-family: "Poppins";
     font-size: 20px;
-  }
-  ul {
-    font-family: "Quattrocento Sans";
-    font-size: 17px;
-    text-align: left;
+    margin-left: 50px;
+    margin-right: 20px;
   }
 </style>

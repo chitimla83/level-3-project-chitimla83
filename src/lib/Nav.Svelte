@@ -1,4 +1,4 @@
-<!-- <nav class="navbar is-dark">
+<nav class="navbar is-dark" aria-label="breadcrumbs">
   <a class="navbar-item has-text-light" href="/"> Home</a>
   <br />
   <a class="navbar-item has-text-light" href="contactus"> Contact Us</a>
@@ -7,15 +7,16 @@
   <br />
   <a class="navbar-item has-text-light" href="results"> Results</a>
   <br />
-</nav> -->
+</nav>
 
-<nav class="navbar is-dark breadcrumb" aria-label="breadcrumbs">
+<!-- <nav class="navbar is-dark breadcrumb" aria-label="breadcrumbs">
   <ul>
     <li><a href="/">Home</a></li>
     <li><a href="contactus">Contact Us</a></li>
     <li><a href="offeredsportsanddraws">Offered Sports and Draws</a></li>
+    <li><a href="results">Results</a></li>
   </ul>
-</nav>
+</nav> -->
 
 <style>
   a {
