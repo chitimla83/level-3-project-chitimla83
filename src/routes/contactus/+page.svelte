@@ -53,7 +53,7 @@
       <div class="tile is-ancestor">
         <div class="tile is-parent">
           <div class="tile is-child is-4">
-            <Image src="/nadia.JPG" alt="placeholder" />
+            <Image src="/nadia.JPG" alt="Nadia van den Bosch" />
           </div>
           <!-- child -->
           <div class="tile is-child">
@@ -72,7 +72,7 @@
       <div class="tile is-ancestor">
         <div class="tile is-parent">
           <div class="tile is-child is-4">
-            <Image src="/briarannet.JPG" alt="placeholder" />
+            <Image src="/briarannet.JPG" alt="Briar Annet" />
           </div>
           <!-- child -->
           <div class="tile is-child">
@@ -91,7 +91,7 @@
       <div class="tile is-ancestor">
         <div class="tile is-parent">
           <div class="tile is-child is-4">
-            <Image src="/katiebaxter.JPG" alt="placeholder" />
+            <Image src="/katiebaxter.JPG" alt="Katie Baxter" />
           </div>
           <!-- child -->
           <div class="tile is-child">
@@ -110,7 +110,7 @@
       <div class="tile is-ancestor">
         <div class="tile is-parent">
           <div class="tile is-child is-4">
-            <Image src="/graceflett.JPG" alt="placeholder" />
+            <Image src="/graceflett.JPG" alt="Grace Flett" />
           </div>
           <!-- child -->
           <div class="tile is-child">
@@ -129,7 +129,7 @@
       <div class="tile is-ancestor">
         <div class="tile is-parent">
           <div class="tile is-child is-4">
-            <Image src="/marissashannon.JPG" alt="placeholder" />
+            <Image src="/marissashannon.JPG" alt="Marissa Shannon" />
           </div>
           <!-- child -->
           <div class="tile is-child">
@@ -148,7 +148,7 @@
       <div class="tile is-ancestor">
         <div class="tile is-parent">
           <div class="tile is-child is-4">
-            <Image src="/louisastuart.JPG" alt="placeholder" />
+            <Image src="/louisastuart.JPG" alt="Louisa Stuart" />
           </div>
           <!-- child -->
           <div class="tile is-child">
@@ -167,7 +167,7 @@
       <div class="tile is-ancestor">
         <div class="tile is-parent">
           <div class="tile is-child is-4">
-            <Image src="/elsietalbolt.JPG" alt="placeholder" />
+            <Image src="/elsietalbolt.JPG" alt="ELsie Talbolt" />
           </div>
           <!-- child -->
           <div class="tile is-child">
@@ -189,7 +189,7 @@
       <div class="tile is-ancestor">
         <div class="tile is-parent">
           <div class="tile is-child is-4">
-            <Image src="/niamhmotley.JPG" alt="placeholder" />
+            <Image src="/niamhmotley.JPG" alt="Niamh Motley" />
           </div>
           <!-- child -->
           <div class="tile is-child">
@@ -208,7 +208,7 @@
       <div class="tile is-ancestor">
         <div class="tile is-parent">
           <div class="tile is-child is-4">
-            <Image src="/madithomas.JPG" alt="placeholder" />
+            <Image src="/madithomas.JPG" alt="Madi Thomas " />
           </div>
           <!-- child -->
           <div class="tile is-child">
@@ -227,7 +227,7 @@
       <div class="tile is-ancestor">
         <div class="tile is-parent">
           <div class="tile is-child is-4">
-            <Image src="/lydiahanrahan.JPG" alt="placeholder" />
+            <Image src="/lydiahanrahan.JPG" alt="Lydia Hanrahan" />
           </div>
           <!-- child -->
           <div class="tile is-child">
@@ -246,7 +246,7 @@
       <div class="tile is-ancestor">
         <div class="tile is-parent">
           <div class="tile is-child is-4">
-            <Image src="/lydiagiles.JPG" alt="placeholder" />
+            <Image src="/lydiagiles.JPG" alt="Lydia Giles" />
           </div>
           <!-- child -->
           <div class="tile is-child">
@@ -265,7 +265,7 @@
       <div class="tile is-ancestor">
         <div class="tile is-parent">
           <div class="tile is-child is-4">
-            <Image src="/camrynporter.JPG" alt="placeholder" />
+            <Image src="/camrynporter.JPG" alt="Camryn Porter" />
           </div>
           <!-- child -->
           <div class="tile is-child">
@@ -284,7 +284,7 @@
       <div class="tile is-ancestor">
         <div class="tile is-parent">
           <div class="tile is-child is-4">
-            <Image src="/rennete.JPG" alt="placeholder" />
+            <Image src="/rennete.JPG" alt=" Rennete van Heerden" />
           </div>
           <!-- child -->
           <div class="tile is-child">
@@ -303,7 +303,7 @@
       <div class="tile is-ancestor">
         <div class="tile is-parent">
           <div class="tile is-child is-4">
-            <Image src="/pipparaymond.JPG" alt="placeholder" />
+            <Image src="/pipparaymond.JPG" alt="Pippa Raymond" />
           </div>
           <!-- child -->
           <div class="tile is-child">
@@ -322,7 +322,7 @@
       <div class="tile is-ancestor">
         <div class="tile is-parent">
           <div class="tile is-child is-4">
-            <Image src="/zoespillane.JPG" alt="placeholder" />
+            <Image src="/zoespillane.JPG" alt="Zoe Spillane" />
           </div>
           <!-- child -->
           <div class="tile is-child">
