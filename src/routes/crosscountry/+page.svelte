@@ -93,6 +93,8 @@
           <li>Under 16 Girls: Ruby Laming 3rd; Georgia Bell 27th; Kate Caird 28th.</li>
           <li>Under 19 Girls: Niamh Motley 2nd; Emily Caird 29th</li>
         </ul>
+        <br />
+        <br />
       </div>
     </div>
   </div>

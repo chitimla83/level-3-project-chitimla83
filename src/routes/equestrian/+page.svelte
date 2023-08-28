@@ -70,6 +70,8 @@
           <br />
           CDS Blue started well and Cate Lightbourne and Sophie Smith finished the day on their dressage scores but the cross-country component was not to be for Lydia Hanrahan and Annabel Murray, resulting in eliminations.
         </p>
+        <br />
+        <br />
       </div>
     </div>
   </div>

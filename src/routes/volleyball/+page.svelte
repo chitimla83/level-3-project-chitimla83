@@ -69,6 +69,7 @@
           In the semi final round, our A team swept aside Pool B top qualifier Waitaki GHS in straight sets to set up a rematch with Ashburton College. In a reversal of dominance Craighead defeated Ashburton with a determined first and second set victory to take out the tournament.
         </p>
         <br />
+        <br />
       </div>
     </div>
   </div>

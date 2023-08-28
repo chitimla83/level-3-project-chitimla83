@@ -10,10 +10,10 @@
         <div class="tile">
           <div class="tile is-parent is-vertical">
             <article class="tile is-child">
-              <Image src="/swimming.png" alt="school athletics" />
+              <Image src="/swimming.png" alt="swimming" />
             </article>
             <article class="tile is-child">
-              <Image src="/basketball3.png" alt="school athletics" />
+              <Image src="/swimming2.png" alt="school swimming" />
             </article>
           </div>
 

@@ -65,6 +65,7 @@
           <li>No cost to enter</li>
         </ul>
         <br />
+        <br />
       </div>
     </div>
   </div>

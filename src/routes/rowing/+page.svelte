@@ -106,6 +106,8 @@
           <li>Girls U17 Single – Elsie Talbot</li>
           <li>Girls U15 Double – Isla Crawford and Lilly Grant</li>
         </ul>
+        <br />
+        <br />
       </div>
     </div>
   </div>

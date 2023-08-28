@@ -107,6 +107,8 @@
           <br />
           Overall for the weekend both girls finished the tour in 2nd position in their grades, which is an excellent result in such tough competition!!
         </p>
+        <br />
+        <br />
       </div>
     </div>
   </div>

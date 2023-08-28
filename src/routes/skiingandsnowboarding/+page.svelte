@@ -68,6 +68,8 @@
         <br />
         <h3>Snowboard/Time Trial</h3>
         <li>Emily Coleman - 2nd in Snowboard Time Trial and 1st in the Boardercross</li>
+        <br />
+        <br />
       </div>
     </div>
   </div>
