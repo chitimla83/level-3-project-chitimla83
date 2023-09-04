@@ -14,7 +14,7 @@
   h1 {
     font-family: "Libre Baskerville";
     font-size: 45px;
-    text-align: right;
+    text-align: left;
   }
   h2 {
     font-family: "Poppins";
