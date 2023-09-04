@@ -9,7 +9,6 @@
 
 <style>
   img {
-    width: 1400px;
-    text-align: center;
+    width: 1200px;
   }
 </style>
