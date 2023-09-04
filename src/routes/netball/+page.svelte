@@ -80,9 +80,22 @@
       <a class="button is-info is-light is-large is-hovered" href="netballresults">Netball Results</a>
     </div>
     <!-- end of button -->
-
     <br />
-    <br />
+    <div class="tile is-ancestor">
+      <div class="tile is-parent">
+        <div class="tile is-child">
+          <Image src="/netball2.png" alt="Netball" />
+        </div>
+        <!-- child -->
+        <div class="tile is-child">
+          <Image src="/netball.png" alt="Netball" />
+        </div>
+        <!-- child -->
+      </div>
+      <!-- parent  -->
+    </div>
+    <!-- ancestor -->
+    <!-- end of new tile -->
   </div>
 </main>
 
@@ -126,5 +139,6 @@
   .is-child {
     display: flex !important;
     align-items: center !important;
+    max-width: 35%;
   }
 </style>

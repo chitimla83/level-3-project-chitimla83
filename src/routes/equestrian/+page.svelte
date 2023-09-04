@@ -9,14 +9,14 @@
   <div class="tile is-ancestor">
     <div class="tile is-parent">
       <div class="tile is-child is-3">
-        <Image src="/placeholder.png" alt="Katie Mackenzie" />
+        <Image src="/dianesurridge.png" alt="Diane Surridge" />
       </div>
       <!-- child -->
       <div class="tile is-child">
         <h3>
-          Teacher in Charge - Katie Mackenzie
+          Teacher in Charge - Diane Surridge
           <br />
-          mackenzieka@craighead.school.nz
+          surridgedi@craighead.school.nz
         </h3>
       </div>
       <!-- child -->
@@ -42,8 +42,21 @@
   </div>
   <!-- end of button -->
   <br />
-  <br />
-  <br />
+  <div class="tile is-ancestor">
+    <div class="tile is-parent">
+      <div class="tile is-child is-4">
+        <Image src="/equestrian.png" alt="Equestrian" />
+      </div>
+      <!-- child -->
+      <div class="tile is-child">
+        <Image src="/equestrian2.png" alt="Equestrian" />
+      </div>
+      <!-- child -->
+    </div>
+    <!-- parent  -->
+  </div>
+  <!-- ancestor -->
+  <!-- end of new tile -->
 </main>
 
 <style>
@@ -79,5 +92,6 @@
   .is-child {
     display: flex !important;
     align-items: center !important;
+    max-width: 35%;
   }
 </style>

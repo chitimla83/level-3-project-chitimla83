@@ -43,7 +43,7 @@
   <br />
   <h2>Reschedules and Defaults:</h2>
   <p>SCBA of any intending dates their teams are not available to play, <strong>no less than the Friday previous to that date. </strong></p>
-
+  <br />
   <h2>DUTY ON A FRIDAY NIGHT INVOLVES;</h2>
   <ul>
     <li>1.Three on Bench Duty (keeping score, etc)</li>
@@ -74,8 +74,21 @@
   </div>
   <!-- end of button -->
   <br />
-  <br />
-  <br />
+  <div class="tile is-ancestor">
+    <div class="tile is-parent">
+      <div class="tile is-child is-4">
+        <Image src="/basketball4.png" alt="Basketball" />
+      </div>
+      <!-- child -->
+      <div class="tile is-child">
+        <Image src="/basketball2.png" alt="Basketball" />
+      </div>
+      <!-- child -->
+    </div>
+    <!-- parent  -->
+  </div>
+  <!-- ancestor -->
+  <!-- end of new tile -->
 </main>
 
 <style>
@@ -118,5 +131,6 @@
   .is-child {
     display: flex !important;
     align-items: center !important;
+    max-width: 35%;
   }
 </style>

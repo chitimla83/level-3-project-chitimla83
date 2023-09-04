@@ -47,8 +47,21 @@
   </div>
   <!-- end of button -->
   <br />
-  <br />
-  <br />
+  <div class="tile is-ancestor">
+    <div class="tile is-parent">
+      <div class="tile is-child">
+        <Image src="/skiing.png" alt="Skiing" />
+      </div>
+      <!-- child -->
+      <div class="tile is-child">
+        <Image src="/skiing2.png" alt="Skiing" />
+      </div>
+      <!-- child -->
+    </div>
+    <!-- parent  -->
+  </div>
+  <!-- ancestor -->
+  <!-- end of new tile -->
 </main>
 
 <style>
@@ -87,6 +100,7 @@
   .is-child {
     display: flex !important;
     align-items: center !important;
+    max-width: 35%;
   }
   div {
     margin-left: 40px;
