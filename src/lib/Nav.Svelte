@@ -11,9 +11,5 @@
   a {
     font-family: "Quattrocento Sans";
     font-size: 20px;
-    align-items: end;
   }
-  /* nav {
-    align-items: flex-end;
-  } */
 </style>
