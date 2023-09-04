@@ -4,19 +4,45 @@
 
 <main>
   <h1>Shooting</h1>
-  <div class="columns">
-    <!-- put tge images in here
-     -->
-    <div class="column" />
-    <!-- start of second column -->
-    <div class="column">
-      <h2>LEVELS</h2>
-      <p>Years 9 -13</p>
-      <br />
-      <h2>UNIFORM</h2>
-      <p>Scchool Tracksuit and Shooting jackets</p>
+
+  <!-- start of tile s -->
+  <div class="tile is-ancestor">
+    <div class="tile is-parent">
+      <div class="tile is-child is-3">
+        <Image src="/dianesurridge.png" alt="Diane Surridge" />
+      </div>
+      <!-- child -->
+      <div class="tile is-child">
+        <h3>
+          Teacher in Charge - Diane Surridge
+          <br />
+          surridgedi@craighead.school.nz
+        </h3>
+      </div>
+      <!-- child -->
     </div>
+    <!-- parent  -->
   </div>
+  <!-- ancestor -->
+  <!-- end of new tile -->
+
+  <h2>LEVELS</h2>
+  <p>Years 9 -13</p>
+  <br />
+  <h2>UNIFORM</h2>
+  <p>Scchool Tracksuit and Shooting jackets</p>
+  <br />
+  <br />
+
+  <!-- link to results -->
+  <!-- start button -->
+  <div class="buttons">
+    <a class="button is-info is-light is-large is-hovered" href="shootingresults">Shooting Results</a>
+  </div>
+  <!-- end of button -->
+  <br />
+  <br />
+  <br />
 </main>
 
 <style>
@@ -52,5 +78,12 @@
     font-size: 20px;
     margin-left: 50px;
     margin-right: 20px;
+  }
+  div {
+    margin-left: 40px;
+  }
+  .is-child {
+    display: flex !important;
+    align-items: center !important;
   }
 </style>

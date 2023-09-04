@@ -5,8 +5,6 @@
   <br />
   <a class="navbar-item has-text-light" href="offeredsportsanddraws"> Offered Sports and Draws</a>
   <br />
-  <a class="navbar-item has-text-light" href="results"> Results</a>
-  <br />
 </nav>
 
 <style>

@@ -4,71 +4,58 @@
 
 <main>
   <h1>Football</h1>
-  <div class="columns">
-    <!-- start of tile -->
-    <div class="tile is-ancestor">
-      <div class="tile is-vertical is-11">
-        <div class="tile">
-          <div class="tile is-parent is-vertical">
-            <article class="tile is-child">
-              <Image src="/footbakll.png" alt="football" />
-            </article>
-            <article class="tile is-child">
-              <Image src="/football2.png" alt="football" />
-            </article>
-          </div>
-          <!-- end of tile -->
 
-          <div class="column" />
-          <!-- start of second column -->
-          <div class="column">
-            <!-- start of tile s -->
-            <div class="tile is-ancestor">
-              <div class="tile is-parent">
-                <div class="tile is-child is-6">
-                  <Image src="/Townshend.JPG" alt="Alastair Townshend" />
-                </div>
-                <!-- child -->
-                <div class="tile is-child">
-                  <h3>
-                    Teacher in Charge -
-                    <br />
-                    Alastair Townshend
-                  </h3>
-                  <p>townshendal@craighead.school.nz</p>
-                </div>
-                <!-- child -->
-              </div>
-              <!-- parent  -->
-            </div>
-            <!-- ancestor -->
-            <!-- end of new tile -->
-
-            <h2>LEVELS</h2>
-            <p>Years 9-13</p>
-            <br />
-            <h2>TERMS</h2>
-            <p>Terms 2 and 3</p>
-            <br />
-            <p>
-              <strong>
-                Competition starts Term 2
-                <br />
-                Games start at 4pm at different football fields around Timaru on a Thursday.</strong
-              >
-            </p>
-            <br />
-            <h2>UNIFORM</h2>
-            <p>Uniform supplied. Boots.</p>
-            <br />
-            <p>Football is played on a Thursday afternoon at various football grounds in Timaru. The A team comp</p>
-            <br />
-            <br />
-          </div>
-        </div>
+  <!-- start of tile s -->
+  <div class="tile is-ancestor">
+    <div class="tile is-parent">
+      <div class="tile is-child is-3">
+        <Image src="/Townshend.JPG" alt="Alastair Townshend" />
       </div>
+      <!-- child -->
+      <div class="tile is-child">
+        <h3>
+          Teacher in Charge - Alastair Townshend
+          <br />
+          townshendal@craighead.school.nz
+        </h3>
+      </div>
+      <!-- child -->
     </div>
+    <!-- parent  -->
   </div>
+  <!-- ancestor -->
+  <!-- end of new tile -->
+
+  <h2>LEVELS</h2>
+  <p>Years 9-13</p>
+  <br />
+  <h2>TERMS</h2>
+  <p>Terms 2 and 3</p>
+  <br />
+  <p>
+    <strong>
+      Competition starts Term 2
+      <br />
+      Games start at 4pm at different football fields around Timaru on a Thursday.</strong
+    >
+  </p>
+  <br />
+  <h2>UNIFORM</h2>
+  <p>Uniform supplied. Boots.</p>
+  <br />
+  <p>Football is played on a Thursday afternoon at various football grounds in Timaru. The A team comp</p>
+  <br />
+  <br />
+
+  <!-- link to results -->
+  <!-- start button -->
+  <div class="buttons">
+    <a class="button is-info is-light is-large is-hovered" href="footballresults">Football Results</a>
+  </div>
+  <!-- end of button -->
+  <br />
+  <br />
+  <br />
 </main>
 
 <style>
@@ -104,5 +91,12 @@
     font-size: 20px;
     margin-left: 50px;
     margin-right: 20px;
+  }
+  .is-child {
+    display: flex !important;
+    align-items: center !important;
+  }
+  div {
+    margin-left: 40px;
   }
 </style>

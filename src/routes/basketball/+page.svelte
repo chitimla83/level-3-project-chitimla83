@@ -9,13 +9,16 @@
   <!-- start of tile s -->
   <div class="tile is-ancestor">
     <div class="tile is-parent">
-      <div class="tile is-child is-6">
+      <div class="tile is-child is-3">
         <Image src="/placeholder.png" alt="Sasha Smilie" />
       </div>
       <!-- child -->
       <div class="tile is-child">
-        <h3>Teacher in Charge - Sasha Smilie</h3>
-        <p>smilliesa@craighead.school.nz</p>
+        <h3>
+          Teacher in Charge - Sasha Smilie
+          <br />
+          smilliesa@craighead.school.nz
+        </h3>
       </div>
       <!-- child -->
     </div>
@@ -111,5 +114,9 @@
   }
   div {
     margin-left: 40px;
+  }
+  .is-child {
+    display: flex !important;
+    align-items: center !important;
   }
 </style>

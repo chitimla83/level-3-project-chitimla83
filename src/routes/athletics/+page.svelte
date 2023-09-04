@@ -10,13 +10,16 @@
   <!-- start of tile s -->
   <div class="tile is-ancestor">
     <div class="tile is-parent">
-      <div class="tile is-child">
+      <div class="tile is-child is-3">
         <Image src="/andrewjones.JPG" alt="placeholder" />
       </div>
       <!-- child -->
       <div class="tile is-child">
-        <h3>Teacher in Charge - Andrew Jones</h3>
-        <p>jonesan@craighead.school.nz</p>
+        <h3>
+          Teacher in Charge - Andrew Jones
+          <br />
+          jonesan@craighead.school.nz
+        </h3>
       </div>
       <!-- child -->
     </div>
@@ -130,8 +133,10 @@
     margin-left: 40px;
   }
 
-  /* is.child {
-  } */
+  .is-child {
+    display: flex !important;
+    align-items: center !important;
+  }
 
   /* Slideshow container */
   .slideshow-container {

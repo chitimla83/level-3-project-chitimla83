@@ -3,7 +3,7 @@
 </script>
 
 <main>
-  <h1>Basketball Results</h1>
+  <h1>Cricket Results</h1>
   <br />
   <p>NA</p>
 </main>
