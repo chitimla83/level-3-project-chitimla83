@@ -13,7 +13,7 @@
       <!-- child -->
       <div class="tile is-child">
         <h3>
-          Teacher in Charge - Devy Gilbert
+          Teacher in Charge - Devyn Gilbert
           <br />
           gilbertde@craighead.school.nz
         </h3>
