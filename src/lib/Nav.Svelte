@@ -1,15 +1,10 @@
 <nav class="navbar is-dark">
-  <ul>
-    <li>
-      <a class="navbar-item has-text-light" href="/"> Home</a>
-    </li>
-    <li>
-      <a class="navbar-item has-text-light" href="contactus"> Contact Us</a>
-    </li>
-    <li>
-      <a class="navbar-item has-text-light" href="offeredsportsanddraws"> Offered Sports and Draws</a>
-    </li>
-  </ul>
+  <a class="navbar-item has-text-light" href="/"> Home</a>
+  <br />
+  <a class="navbar-item has-text-light" href="contactus"> Contact Us</a>
+  <br />
+  <a class="navbar-item has-text-light" href="offeredsportsanddraws"> Offered Sports and Draws</a>
+  <br />
 </nav>
 
 <style>
