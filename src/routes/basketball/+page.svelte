@@ -6,27 +6,8 @@
   <h1>Basketball</h1>
 
   <br />
-  <!-- start of tile s -->
-  <div class="tile is-ancestor">
-    <div class="tile is-parent">
-      <div class="tile is-child is-3">
-        <Image src="/placeholder.png" alt="Sasha Smilie" />
-      </div>
-      <!-- child -->
-      <div class="tile is-child">
-        <h3>
-          Teacher in Charge - Sasha Smilie
-          <br />
-          smilliesa@craighead.school.nz
-        </h3>
-      </div>
-      <!-- child -->
-    </div>
-    <!-- parent  -->
-  </div>
-  <!-- ancestor -->
-  <!-- end of new tile -->
-
+  <h3>Teacher in Charge: Sasha Smilie - smilliesa@craighead.school.nz</h3>
+  <br />
   <h2>LEVELS</h2>
   <p>Years 7-13</p>
   <br />
